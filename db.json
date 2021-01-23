@@ -5,12 +5,12 @@
     { "id": 3, "label": "March", "volume": 5279 },
     { "id": 4, "label": "April", "volume": 5889 },
     { "id": 5, "label": "May", "volume": 6877 },
-    { "id": 6, "label": "June", "volume": 6850 }
-    { "id": 6, "label": "July", "volume": 6902 }
-    { "id": 6, "label": "August", "volume": 7001 }
-    { "id": 6, "label": "September", "volume": 7103 }
-    { "id": 6, "label": "October", "volume": 7507 }
-    { "id": 6, "label": "November", "volume": 8556 }
+    { "id": 6, "label": "June", "volume": 6850 },
+    { "id": 6, "label": "July", "volume": 6902 },
+    { "id": 6, "label": "August", "volume": 7001 },
+    { "id": 6, "label": "September", "volume": 7103 },
+    { "id": 6, "label": "October", "volume": 7507 },
+    { "id": 6, "label": "November", "volume": 8556 },
     { "id": 6, "label": "December", "volume": 9999 }
   ]
 }
